@@ -1,4 +1,6 @@
 ### German-Traffic-Sign-Recognition-Model
+### By: Dominic Meador, Eric Leocadio, Ahmed Tuama, Fahima Aziz, Pedro Suarez
+
 ## Problem Solving: 
 To have an AI model recognize automated driving/driving-assistance models correctly while remaining consistent, it must be able to identify traffic signs that vary widely due to external factors such as lighting, weather, and sign deterioration.
 - Traffic sign appearance can change significantly
