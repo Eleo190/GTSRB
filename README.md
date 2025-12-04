@@ -12,3 +12,5 @@ The main reason for this project is because accuracy and consistency are essenti
 
 ## Main Goal:
 Our goal is to be able to create an AI model and then demonstrate it by showing everyone that it can accuratley recognize traffic signs and analyze images to detect the sign within them using Machine Learning to autommatically classify signs to correct categories. 
+
+Link to Recording: https://drive.google.com/file/d/1tnodPi_HlCT6vjlrtn3JRBeYHDlfLM0T/view
